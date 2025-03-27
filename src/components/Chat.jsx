@@ -20,6 +20,7 @@ const Chat = () => {
   const autoReply = (userMessage) => {
     const responses = {
       hello: "Hi there! 👋",
+      hi: "Hi there! 👋",
       how: "I'm just a bot, but I'm doing great! 😊",
       bye: "Goodbye! Have a great day! 🚀",
       howAreYou:"i am great what about you",
